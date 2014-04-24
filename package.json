@@ -22,7 +22,6 @@
     "url": "https://github.com/digihaven/osi"
   },
   "dependencies": {
-    "osi": "14.4.14.11",
   },
   "devDependencies": {
   },
