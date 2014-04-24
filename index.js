@@ -227,7 +227,7 @@ if (typeof $.localStorage === 'undefined')
 							city: 'unknowen',
 							ll: [0, 0] };
 
-					console.log("New connection from " + address.address + ":" + address.port, geo.city, geo.country, geo.country);
+					console.log("New connection from " + address.address + ":" + address.port, geo.city, geo.region, geo.country);
 
 					socket.on('disconnect', function () {
 						console.log('User disconnected ' + address.address + ":" + address.port);
