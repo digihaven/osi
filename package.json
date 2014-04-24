@@ -1,6 +1,6 @@
 {
   "name": "osi",
-  "version": "14.4.14.11",
+  "version": "14.4.11",
   "description": "OSI is a distributed P2P project, aiming at creating a censorship free, anonymous and open internet, while earning users OSICoin.",
   "homepage": "http://osi.digihaven.com",
   "keywords": [
@@ -22,6 +22,9 @@
     "url": "https://github.com/digihaven/osi"
   },
   "dependencies": {
+	"cheerio": "0.15.0",
+	"request": "2.34.0",
+	"socket.io-client": "0.9.16"
   },
   "devDependencies": {
   },
