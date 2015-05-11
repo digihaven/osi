@@ -10,10 +10,10 @@ The current distibuted database size is:
 11.5Tb
 
 Master seed sources are:
-Google.com - google trends https://www.google.ca/trends/
-Bing.com - 
--- Bing Keyword Research http://www.bing.com/toolbox/keywords
--- Glimpse of the future with 2015 predictions http://blogs.bing.com/search/2014/12/17/bing-offers-a-glimpse-of-the-future-with-2015-predictions/
+* Google.com - google trends https://www.google.ca/trends/
+* Bing.com 
+  * Bing Keyword Research http://www.bing.com/toolbox/keywords
+  * Glimpse of the future with 2015 predictions http://blogs.bing.com/search/2014/12/17/bing-offers-a-glimpse-of-the-future-with-2015-predictions/
 
 Legal notice
 ==============
