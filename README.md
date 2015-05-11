@@ -9,9 +9,9 @@ Update As of Tue Apr 21, 2015
 The current distibuted database size is: 
 11.5Tb
 
-Master seed sorces are:
-Goolge.com
-Bing.com
+Master seed sources are:
+Goolge.com - google trends https://www.google.ca/trends/
+Bing.com - Bing Keyword Research http://www.bing.com/toolbox/keywords
 
 Legal notice
 ==============
